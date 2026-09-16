@@ -1,0 +1,4 @@
+Python 3.12.14
+git version 2.51.1
+Virtual environment: .venv
+External packages: none required

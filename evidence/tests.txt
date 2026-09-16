@@ -1,0 +1,18 @@
+test_busy_intersections (test_main.BookingTests.test_busy_intersections) ... ok
+test_closing_boundary (test_main.BookingTests.test_closing_boundary) ... ok
+test_confirmation (test_main.BookingTests.test_confirmation) ... ok
+test_console_invalid_numbers (test_main.BookingTests.test_console_invalid_numbers) ... ok
+test_console_success (test_main.BookingTests.test_console_success) ... ok
+test_empty_name (test_main.BookingTests.test_empty_name) ... ok
+test_end_at_busy_start (test_main.BookingTests.test_end_at_busy_start) ... ok
+test_free_interval (test_main.BookingTests.test_free_interval) ... ok
+test_nonpositive_duration (test_main.BookingTests.test_nonpositive_duration) ... ok
+test_opening_boundary (test_main.BookingTests.test_opening_boundary) ... ok
+test_price (test_main.BookingTests.test_price) ... ok
+test_rejection_reasons (test_main.BookingTests.test_rejection_reasons) ... ok
+test_start_at_busy_end (test_main.BookingTests.test_start_at_busy_end) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.002s
+
+OK

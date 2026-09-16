@@ -1,0 +1,18 @@
+> /workspace/scratch/d4148cb69af4/work/sports-booking/main.py(1)<module>()
+-> """ПР1. Сервис бронирования спортивных площадок.
+(Pdb) Breakpoint 1 at /workspace/scratch/d4148cb69af4/work/sports-booking/main.py:34
+(Pdb) СЕРВИС БРОНИРОВАНИЯ СПОРТИВНЫХ ПЛОЩАДОК
+Площадка: СпортПарк, площадка для мини-футбола
+Учебная дата: 01.10.2026
+Открыто: 08:00-22:00. Занято: 18:00-20:00.
+Стоимость часа: 1500.00 руб.
+Ваше имя: Час начала (целое число от 8 до 21): Длительность в целых часах (от 1 до 14): 
+> /workspace/scratch/d4148cb69af4/work/sports-booking/main.py(34)calculate_price()
+-> return duration * hourly_rate
+(Pdb) 2
+(Pdb) 1500.0
+(Pdb) --Return--
+> /workspace/scratch/d4148cb69af4/work/sports-booking/main.py(34)calculate_price()->3000.0
+-> return duration * hourly_rate
+(Pdb) 3000.0
+(Pdb) 
