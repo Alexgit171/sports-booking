@@ -1,0 +1,9 @@
+Команда: .venv/bin/python -m pytest -q
+
+................................                                         [100%]
+32 passed in 0.13s
+
+Команда совместимости: .venv/bin/python -m unittest -v
+
+Ran 13 tests in 0.003s
+OK

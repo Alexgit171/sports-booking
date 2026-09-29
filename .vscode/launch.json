@@ -2,10 +2,19 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "ПР1: бронирование площадки",
+      "name": "ПР2: сервис бронирования",
       "type": "debugpy",
       "request": "launch",
       "program": "${workspaceFolder}/main.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "ПР2: тесты pytest",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["-q"],
       "console": "integratedTerminal",
       "justMyCode": true
     }

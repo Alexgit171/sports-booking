@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "СпортПарк, площадка для мини-футбола",
+    "sport": "мини-футбол",
+    "hourly_rate": 1500.0,
+    "open_hour": 8,
+    "close_hour": 22
+  },
+  {
+    "id": 2,
+    "name": "Теннис Центр",
+    "sport": "теннис",
+    "hourly_rate": 1200.0,
+    "open_hour": 9,
+    "close_hour": 21
+  },
+  {
+    "id": 3,
+    "name": "Баскет Холл",
+    "sport": "баскетбол",
+    "hourly_rate": 1800.0,
+    "open_hour": 10,
+    "close_hour": 23
+  }
+]

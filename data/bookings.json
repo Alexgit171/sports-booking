@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "user_name": "Учебная бронь ПР1",
+    "ground_id": 1,
+    "date": "2026-10-01",
+    "start_hour": 18,
+    "end_hour": 20,
+    "duration": 2,
+    "price": 3000.0,
+    "status": "confirmed"
+  }
+]
